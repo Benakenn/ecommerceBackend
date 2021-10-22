@@ -29,7 +29,7 @@ Back end routes built out with CRUD functionality so the user can interact with 
 
 This is  a freesoftware released into the public domain.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
+This is free to copy, modify, publish, use, compile, sell, or
 distribute this software, its source code or as a compiled
 binary, for commercial or non-commercial use.
 In jurisdictions that recognize copyright laws, the author or authors
