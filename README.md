@@ -7,11 +7,11 @@ Back end routes built out with CRUD functionality so the user can interact with 
 
 ## Table of Contents
 
-- [Dependencies](#Dependencies)
+- [Required](#Required)
 - [Usage](#Usage)
 - [License](#License)
 
-## Dependencies
+## Required
 
   - npm i dotenv
   - npm i express
