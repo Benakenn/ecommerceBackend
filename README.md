@@ -10,7 +10,6 @@ Back end routes built out with CRUD functionality so the user can interact with 
 - [Dependencies](#Dependencies)
 - [Usage](#Usage)
 - [License](#License)
-- [Demo](#Demo)
 
 ## Dependencies
 
