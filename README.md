@@ -27,13 +27,11 @@ Back end routes built out with CRUD functionality so the user can interact with 
 
 ## License
 
-This is free and unencumbered software released into the public domain.
+This is  a freesoftware released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
+distribute this software, its source code or as a compiled
+binary, for commercial or non-commercial use.
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
 software to the public domain. We make this dedication for the benefit
