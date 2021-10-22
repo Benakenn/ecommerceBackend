@@ -26,7 +26,7 @@ Back end routes built out with CRUD functionality so the user can interact with 
 
 ## License
 
-This is  a freesoftware released into the public domain.
+This is  a free software released into the public domain.
 
 This is free to copy, modify, publish, use, compile, sell, or
 distribute this software, its source code or as a compiled
