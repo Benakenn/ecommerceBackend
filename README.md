@@ -1,6 +1,6 @@
 ![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)
 
-# Ecommerce Site - Backend
+# Ecommerce - Backend
 
 Project focused on the back-end build out of an ecommerce website.
 Back end routes built out with CRUD functionality so the user can interact with data from the db in getting, posting, updating, or deleting information for the eccomerce site.
