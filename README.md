@@ -1,4 +1,4 @@
-![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)
+
 
 # Ecommerce - Backend
 
